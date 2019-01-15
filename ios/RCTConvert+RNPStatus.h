@@ -24,7 +24,6 @@ typedef NS_ENUM(NSInteger, RNPType) {
     RNPTypeUnknown,
     RNPTypeLocation,
     RNPTypeCamera,
-    RNPTypeMicrophone,
     RNPTypePhoto,
     RNPTypeNotification,
     RNPTypeBackgroundRefresh
